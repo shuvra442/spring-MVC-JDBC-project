@@ -17,8 +17,8 @@
   <div class="">
   
   
-  <button class="btn btn-primary"> <a href="studentForm" class="text-white">Add Student</a></button>
-  <button class="btn btn-primary"> <a href="viewStudent " class="p-2 text-white">view Student</a></button>
+  <button class="btn btn-primary"> <a href="studentForm" class="text-white" style="text-decoration:none;">Add Student</a></button>
+  <button class="btn btn-primary"> <a href="viewStudent " class="p-2 text-white" style="text-decoration:none;">view Student</a></button>
 
   </div>
 
